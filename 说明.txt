@@ -1,0 +1,3 @@
+==========mysql
+mysql数据库，数据库testdb中表user包含id和name
+用户名和密码都是root
